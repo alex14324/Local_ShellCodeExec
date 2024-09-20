@@ -1,0 +1,18 @@
+﻿  LocalShellcodeInjection.c
+C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(32,21): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(36,21): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(105,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'SIZE_T'
+      C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(105,12):
+      consider using '%lld' in the format string
+      C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(105,12):
+      consider using '%Id' in the format string
+      C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(105,12):
+      consider using '%I64d' in the format string
+  
+C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(141,28): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(141,28): warning C4024: 'CreateThread': different types for formal and actual parameter 2
+C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(141,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(141,59): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(91,17): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\LocalShellcodeExec\LocalShellcodeInjection.c(130,11): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  LocalShellcodeExec.vcxproj -> C:\Users\Administrator\Desktop\MD\27.Local-Shellcode-Exec\LocalShellcodeExec\x64\Debug\LocalShellcodeExec.exe
